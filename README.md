@@ -1,7 +1,9 @@
 # Practice how Stacks and Queues work with this GUI program
 ## Stacks and Queues
 Stacks and Queues are abstract data types that help make a much more efficient use of memory. 
+
 Stacks work on the first in last out principle (LIFO). Push and pop are key methods that they posses. Others include checking if it is empty, or peeking to see the element on top.
+
 Generally, queues work on the principle of first in first out (FIFO). Its key methods include insert, remove, peekFront, etc.
 
 Together, stacks and queues are powerful data structures to apply to whatever you are coding!
